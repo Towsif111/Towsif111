@@ -1,7 +1,7 @@
 <img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/a46eab95-32d5-4197-8096-131993de665a" />
 
 # Hi, I'm Towsif 👋  
-**Full Stack Web Developer | Cybersecurity Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 ### About Me
 - Passionate about building secure and scalable web applications  
