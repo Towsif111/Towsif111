@@ -58,16 +58,21 @@
 
 
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <!-- GitHub -->
+  <a href="https://github.com/Towsif111" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="https://discordapp.com/users/your-discord-id" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/towsifhassan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
+
+
 
 
 
