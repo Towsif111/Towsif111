@@ -71,20 +71,18 @@
 
 
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<!-- Overall Contributions -->
+<img src="https://github-readme-stats.vercel.app/api?username=Towsif111&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+<!-- Streak Data -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Towsif111&theme=tokyonight" alt="GitHub Streak" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Contribution Graph" />
+<!-- Languages Used -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Towsif111&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
+
