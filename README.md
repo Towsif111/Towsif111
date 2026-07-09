@@ -78,21 +78,11 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+![Towsif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=towsifhassan&show_icons=true&theme=tokyonight)
 
-<!-- Overall Contributions -->
-<img src="https://github-readme-stats.vercel.app/api?username=Towsif111&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=towsifhassan&layout=compact&theme=tokyonight)
 
-<!-- Streak Data -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Towsif111&theme=tokyonight" alt="GitHub Streak" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Towsif111&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Towsif111&theme=tokyo-night" alt="Contribution Graph" />
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=towsifhassan&theme=tokyonight)
 
 
 
