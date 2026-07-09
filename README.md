@@ -24,8 +24,9 @@
 
 ### CSS Framework
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </p>
+
 
 ### JavaScript Frameworks
 <p align="left">
