@@ -81,12 +81,13 @@
 <!-- Streak Data -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Towsif111&theme=tokyonight" alt="GitHub Streak" />
 
-<!-- Languages Used -->
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Towsif111&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Towsif111&theme=tokyo-night" alt="Contribution Graph" />
 
 </div>
+
 
 
