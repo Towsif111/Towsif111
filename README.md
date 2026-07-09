@@ -84,5 +84,9 @@
 <!-- Languages Used -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Towsif111&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Towsif111&theme=tokyo-night" alt="Contribution Graph" />
+
 </div>
+
 
